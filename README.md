@@ -1,45 +1,62 @@
-# Movie Database App with react
+## SongFlix
 
-- A movie discovery web application consuming the TMDB movie database api.
+Comfort with Entertainments
 
-## Technologies used
+# Introduction
 
-- ReactJs with vite
-  `npm create vite@latest`
+SongFlix is a personalized web platform designed for movie enthusiasts to search, discover, and organize their favorite movies. With an intuitive interface, users can explore a wide range of films, add them to their watchlist, and even submit reviews. The platform offers personalized movie recommendations based on user preferences.
 
-- Tailwind CSS for styling
-- React-router-dom for routing
-  `npm i react-router-dom `
+Deployed Site: Visit SongFlix here
+`https://song-flix.vercel.app/`
 
-- React Query for state management
-  `npm i @tanstack/react-query`
+Final Project Blog Article: Read the project article
 
-- React-icons for
-  `npm i react-icons`
+Author: Jehoshaphat Martins LinkedIn
+`www.linkedin.com/in/thesongmartins`
 
-- React-spinners for loading animation
-  `npm i react-spinners`
+# Installation
 
-## APIS endpoints utilised
+To set up the project locally, follow these steps:
 
-- To get the top 10 movies I used :
-  `https://api.themoviedb.org/3/movie/popular?language=en-US&page=1`
+# Clone the repository:
 
-- To get a movie with id
-  `https://api.themoviedb.org/3/movie/${movieId}?append_to_response=videos,credits&&language=en-US`
+`git clone https://github.com/thesongmartins/Song-Flix.git`
+`cd songflix`
 
-- To search for movies
-  `https://api.themoviedb.org/3/search/movie?query=${searchWord}`
+# Install dependencies:
 
-- To get trending movies for the hero section
-  `https://api.themoviedb.org/3/movie/now_playing?language=en-US&page=1`
+`npm install`
 
-## Run App locally
+# Start the development server:
 
-- To run the app locally first clone the repo to your local machine.
+`npm run dev`
+`Visit http://localhost:3000 in your browser to view the application.`
 
-- Then run
-  `npm install`
+# Usage
 
-- Finally run
-  `npm run dev`
+Movie Search: Search for movies by title, genre, or keywords.
+Watchlist Management: Add movies to your watchlist for future viewing.
+User Reviews: Submit and read reviews from other users.
+Personalized Recommendations: Receive movie suggestions based on your viewing history.
+
+# Contributing
+
+Contributions are welcome! To get started:
+
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Make your changes and commit (git commit -m 'Add a feature').
+Push to the branch (git push origin feature-branch).
+Open a pull request.
+
+# Related Projects
+
+IMDb
+Rotten Tomatoes
+Letterboxd
+Licensing
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Resources
+
+https://github.com/thesongmartins
