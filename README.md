@@ -10,6 +10,7 @@ Deployed Site: Visit SongFlix here
 `https://song-flix.vercel.app/`
 
 Final Project Blog Article: Read the project article
+`https://www.linkedin.com/posts/thesongmartins_alxafrica-alxfoundationsproject-activity-7241941168878456832-CgL9?utm_source=share&utm_medium=member_desktop`
 
 Author: Jehoshaphat Martins LinkedIn
 `www.linkedin.com/in/thesongmartins`

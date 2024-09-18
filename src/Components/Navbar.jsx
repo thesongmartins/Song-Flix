@@ -21,6 +21,8 @@ const Navbar = () => {
   };
   window.addEventListener("scroll", activeNavbar);
 
+  // Navigation bar of the app.
+
   return (
     <nav
       className={`h-80px fixed z-50 flex items-center justify-between px-6 lg:px-14 py-3 w-full ${
