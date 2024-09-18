@@ -2,6 +2,8 @@ import React from "react";
 import TopMovies from "./TopMovies";
 import useSearch from "../hooks/useSearch";
 
+// The variable for the featured button
+
 const Featured = () => {
   const { searchWord } = useSearch();
   return (
